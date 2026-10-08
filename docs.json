@@ -1,10 +1,22 @@
 {
-    "Como emitir nota fiscal": {
-        "content": "<h3>Emissão de Nota Fiscal</h3><p>Para emitir notas fiscais no sistema da empresa, acesse o menu <b>Financeiro > Notas Fiscais</b> e preencha os campos obrigatórios.</p>",
-        "video": "https://drive.google.com/file/d/SEU_ID_DO_VIDEO_AQUI/preview"
+    "Caixa": {
+        "itens": {
+            "Abertura de Caixa": {
+                "content": "<h3>Abertura de Caixa</h3><p>Passo a passo para abrir o caixa pela manhã...</p>",
+                "video": "https://drive.google.com/file/d/SEU_ID_1/preview"
+            },
+            "Fechamento de Caixa": {
+                "content": "<h3>Fechamento de Caixa</h3><p>Procedimento para fechar o caixa e conferir valores...</p>",
+                "video": "https://drive.google.com/file/d/SEU_ID_2/preview"
+            }
+        }
     },
-    "Cadastro de Clientes": {
-        "content": "<h3>Cadastro de Clientes</h3><p>Vá até <b>Cadastros > Clientes</b>. Certifique-se de preencher o CPF/CNPJ corretamente.</p>",
-        "video": "https://drive.google.com/file/d/OUTRO_ID_DO_VIDEO_AQUI/preview"
+    "Financeiro": {
+        "itens": {
+            "Emissão de Nota Fiscal": {
+                "content": "<h3>Emissão de NF</h3><p>Como emitir notas para clientes...</p>",
+                "video": "https://drive.google.com/file/d/SEU_ID_3/preview"
+            }
+        }
     }
 }
