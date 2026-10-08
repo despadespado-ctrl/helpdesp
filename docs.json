@@ -1,0 +1,10 @@
+{
+    "Como emitir nota fiscal": {
+        "content": "<h3>Emissão de Nota Fiscal</h3><p>Para emitir notas fiscais no sistema da empresa, acesse o menu <b>Financeiro > Notas Fiscais</b> e preencha os campos obrigatórios.</p>",
+        "video": "https://drive.google.com/file/d/SEU_ID_DO_VIDEO_AQUI/preview"
+    },
+    "Cadastro de Clientes": {
+        "content": "<h3>Cadastro de Clientes</h3><p>Vá até <b>Cadastros > Clientes</b>. Certifique-se de preencher o CPF/CNPJ corretamente.</p>",
+        "video": "https://drive.google.com/file/d/OUTRO_ID_DO_VIDEO_AQUI/preview"
+    }
+}
