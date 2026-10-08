@@ -1,2 +1,1 @@
-[InternetShortcut]
-URL=file:///c%3A/Users/Gustavo/Documents/HelpDesp/version.txt
+1.0
